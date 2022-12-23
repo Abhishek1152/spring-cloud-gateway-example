@@ -14,5 +14,5 @@ ribbon:
 
 apiservice:
   ribbon:
-    listOfServers: localhost:9090,localhost:9091
+    listOfServers: localhost:9090
 
