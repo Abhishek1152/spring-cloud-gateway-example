@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.3.3.RELEASE</version> <!-- Changing to 3.0.0 -->
+		<version>2.3.3.RELEASE</version> <!-- Changing version 2.3.3.RELEASE to 3.0.0 -->
 		<relativePath/>
 	</parent>
 	<groupId>org.eduami.spring</groupId>
@@ -15,8 +15,8 @@
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
-		<java.version>11</java.version> <!-- Changing to Java 17 -->
-		<spring-cloud.version>Hoxton.SR8</spring-cloud.version> <!-- Changing to 2022.0.0 -->
+		<java.version>17</java.version> <!-- Changing version Java 11 to 17 -->
+		<spring-cloud.version>Hoxton.SR8</spring-cloud.version> <!-- Changing version Hoxton.SR8 to 2022.0.0 -->
 	</properties>
 
 	<dependencies>
